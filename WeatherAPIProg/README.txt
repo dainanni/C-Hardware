@@ -1,0 +1,1 @@
+Programs written for CCS (Code Composer Studio) to interface with OpenWeather API and get weather information and display it on an Adafruit OLED using SPI, input city names to get details from the Web API using DTMF (As done in previous projects) and toggle through existing city presets using a biaxial joystick
